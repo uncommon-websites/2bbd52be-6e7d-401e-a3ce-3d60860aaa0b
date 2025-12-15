@@ -11,6 +11,11 @@
 	import Footer from "$lib/components/Footer.svelte";
 </script>
 
+<svelte:head>
+	<title>Genrae - Affordable Homeownership Through Smart Rate Buydowns</title>
+	<meta name="description" content="Get up to 1.5% off your mortgage rate permanently with Genrae's innovative appreciation-sharing model. Make homeownership affordable again with lower monthly payments." />
+</svelte:head>
+
 <main class="min-h-screen bg-[#F9F9F9]">
 	<Navbar />
 	<Hero />
